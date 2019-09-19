@@ -36,3 +36,21 @@ const results1 = map(words, word => word[0]);
 console.log(results1);
 
 assertArraysEqual(results1, [ 'g', 'c', 't', 'm', 't' ]);
+
+const results2 = map(words, word => word.length);
+console.log(results2);
+
+assertArraysEqual(results2, [ 6, 7, 2, 5, 3 ]);
+
+const nums = [1, 2, 3, 4, 5]
+
+const results3 = map(nums, numbers => numbers + 1);
+console.log(results3);
+
+assertArraysEqual(results3, [2, 3, 4, 5, 6]);
+
+const results4 = map(nums, numbers => numbers * 7);
+console.log(results4);
+
+assertArraysEqual(results4, [7, 14, 21, 28, 35]);
+
