@@ -27,11 +27,11 @@ This project was created and published by me as part of my learnings at Lighthou
 The following functions are currently implemented:
 
 
-* `assertEqual`: assert that two values are equal
-* `assertArraysEqual`: assert two arrays are equal
-* `assertObjectsEqual`: assert two objects are equal
+* `assertEqual`: assert that two values are equal and display the result in the console.log
+* `assertArraysEqual`: assert two arrays are equal and display the result in the console.log
+* `assertObjectsEqual`: assert two objects are equal and display the result in the console.log
 * `countLetters`: count the number of letters in a string
-* `countOnly`: count the number of objects in an array and return the number of the specified ones
+* `countOnly`: count the number of objects in an array and return the number of the specified values
 * `eqArrays`: checks to see if two arrays are the same
 * `eqObjects`: checks to see if two objects are the same
 * `findKey`: finds the key of an object
