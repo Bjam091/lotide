@@ -31,7 +31,7 @@ The following functions are currently implemented:
 * `assertArraysEqual`: assert two arrays are equal
 * `assertObjectsEqual`: assert two objects are equal
 * `countLetters`: count the number of letters in a string
-* `countOnly`: count the number of objects and return the number of them
+* `countOnly`: count the number of objects in an array and return the number of the specified ones
 * `eqArrays`: checks to see if two arrays are the same
 * `eqObjects`: checks to see if two objects are the same
 * `findKey`: finds the key of an object
