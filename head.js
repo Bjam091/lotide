@@ -1,7 +1,4 @@
-// FUNCTION IMPLEMNTATION
-const assertEqual = require('./assertEqual');
-
-var head = function (paramater) {
+let head = function(paramater) {
   return paramater[0];
 };
 
