@@ -22,4 +22,6 @@ describe("#head", () => {
 
 });
 
+//the third case will fail to prove that it does work to return fail.
+
 
